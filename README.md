@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The first program is the Tank Wars Game, it has 2 players that they can able to fight each other
+The Tank Wars Game, it has 2 players that they can able to fight each other
 when they fire their bullets. Also, there are breakable and unbreakable walls around the tank map
 game and pick up weapons and tank’s health recovery. It has split screen, mini map, and the
 health and lives for 2 player tanks.
